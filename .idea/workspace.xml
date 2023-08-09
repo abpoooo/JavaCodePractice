@@ -1,51 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e62ba256-a160-4546-9c08-d711dbd968f8" name="Changes" comment="java code practice">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/HappyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/IsomorphicStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/NumberOf1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_array/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_bst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_stack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_stack/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_stack/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/MaximumDepthOfNaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/MaximumWidthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/TreeNode.java" afterDir="false" />
+    <list default="true" id="e62ba256-a160-4546-9c08-d711dbd968f8" name="Changes" comment="java code practice1">
+      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_queue/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/NaryTreePostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/NaryTreePreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/PreorderAndInorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/BinaryTreeLevelOrderTraversalII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/BinaryTreeLevelOrderTraversalII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/BinaryTreePostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/BinaryTreePostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/BinaryTreePreorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/BinaryTreePreorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/CheckCompletenessOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/CheckCompletenessOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/DeleteNodeInLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/DeleteNodeInLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/FlattenBinaryTreeToLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/FlattenBinaryTreeToLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/InorderAndPostorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/InorderAndPostorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/InvertBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/InvertBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/LinkedListCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/MaximumDepthOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/MaximumDepthOfNaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_array/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/MiddleOfTheLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/PalindromeLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/PalindromeLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/RemoveDuplicatesFromSortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/RemoveDuplicatesFromSortedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/RemoveLinkedListElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/RemoveLinkedListElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_list/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/SlidingWindowMaximum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/SortColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_array/SortColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/SpiralMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_array/SpiralMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/isBalanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_tree/isBalanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_leetcodes/_queue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_leetcodes/_queue/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="_02_leetcodes._stack" />
@@ -104,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690811999046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java code practice1">
+      <created>1691454603006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691454603006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java code practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="java code practice" />
+    <MESSAGE value="java code practice1" />
+    <option name="LAST_COMMIT_MESSAGE" value="java code practice1" />
   </component>
 </project>
